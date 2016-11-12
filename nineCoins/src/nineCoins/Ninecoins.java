@@ -28,7 +28,7 @@ public class Ninecoins {
 			 
 			  }
 			 
-			  displayArray(intArray);
+			  //displayArray(intArray);
 			 
 			 }
 			 
